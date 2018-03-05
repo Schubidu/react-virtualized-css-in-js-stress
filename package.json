@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "https://codesandbox.io/s/react-virtualized-css-in-js-stress",
+  "homepage": "/",
   "main": "src/index.js",
   "dependencies": {
     "classnames": "^2.2.5",
