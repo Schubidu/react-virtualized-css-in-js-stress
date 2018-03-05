@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+
+.navigation {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 10em);
+    text-align: center;
+    padding: 0;
+    background-color: #dddddd;
+    color: #666666;
+}
+.navigation-item-wrapper {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+
+}
+.navigation-item {
+    padding: .32em;
+    display: block;
+    color: currentColor;
+    text-decoration: none;
+    transition: background-color .3s;
+}
+.navigation-item:hover {
+    background-color: rgba(102,102,102, .3);
+}
+
+.navigation-item.active {
+    background-color: #666;
+    color: #dddddd;
+    font-weight: bold;
+}
+
