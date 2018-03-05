@@ -1,9 +1,9 @@
 {
-  "name": "new",
+  "name": "react-virtualized-css-in-js-stress",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "https://codesandbox.io/s/new",
+  "homepage": "https://codesandbox.io/s/react-virtualized-css-in-js-stress",
   "main": "src/index.js",
   "dependencies": {
     "classnames": "^2.2.5",
